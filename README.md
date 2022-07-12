@@ -2,7 +2,7 @@
 ##### Welcome to the Genius, Joy, and Love Webtext Coding Workshop
 *Is coding in our nature?*
 
-![QR Code]()
+![QR Code](https://github.com/Pitt-Fuego/Genius-Joy-and-Learning-Summer-Institute/blob/main/qr.jpg)
 
 ### Schedule:
 (9:30-9:50)
