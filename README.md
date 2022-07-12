@@ -9,7 +9,7 @@
 
 * Introductions
 * The what and the why of *Coding Nature* (Our workshop with the Genius, Joy, and Love High School Students)
-* Intro to our webtext, basic coding and Open/Pitt Fuego 
+* Intro to our webtext, basic coding and Open Fuego 
 
 (9:50-11:00)
   
@@ -43,7 +43,7 @@ Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 ## Intro to basic coding and Open Fuego
 
-[Genius, Joy, and Love Webtext]()
+[Genius, Joy, and Love Webtext](https://pitt-fuego.github.io/Genius-Joy-and-Learning-Summer-Institute/)
 
 
 [Open Fuego Intro](https://sjquigley.github.io/Open-Fuego-Presentation/)<p>&nbsp;</p>
