@@ -56,11 +56,11 @@ Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 3. Find this folder in your downloads. Open Zip and move this folder to "**My Files**." You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and open a text editor like [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org) for Macs and Windows, or [CodePad](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB) for Chromebooks.  
+4. Download and open a text editor like [atom.io](https://atom.io), or [notepad-plus-plus.org](http://notepad-plus-plus.org) for Macs and Windows, or [CodePad](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB) for Chromebooks.  
 
 5. Use the text editor to open the index.html document from your project folder.  
 
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own web text! 
+6. Start working with code by reading through the index.html where you'll find instructions on how to build your own webtext! We'll use these [common assets](https://drive.google.com/drive/folders/1P6GpBebWcUzDgFXIQAxZjCfKZ1tUKvlm?usp=sharing) to customize your webtext.
 
 7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes." 
 
@@ -85,7 +85,7 @@ Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.
 
 ## Sharing Out
 
-Once you have published your webtext to GitHub, let's share the URL.<p>&nbsp;</p>
+Once you have published your webtext to GitHub, let's [share the URL.](https://docs.google.com/forms/d/e/1FAIpQLSeLCIP0wljm6kKVbXDGSZPpv5pacEmqJ7hz16LK-L6Q7T2-DA/viewform?usp=sf_link)<p>&nbsp;</p>
 
 
 ## Reflection
@@ -105,8 +105,8 @@ Once you have published your webtext to GitHub, let's share the URL.<p>&nbsp;</p
 
 ## Additional Resources
 - [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom)
-- [Open Fuego FAQ/Teaching Best Practices](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
-- [W3](w3.org) provides a wide range of code reference, tutorials, and a sandbox allowing code play.
+- [Open Fuego FAQ/Teaching Best Practices](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) (scroll to the bottom of the page to find FAQ and Best Practices)
+- [W3](https://www.w3schools.com) provides a wide range of code reference, tutorials, and a sandbox allowing code play.
 - [Stack Overflow](https://stackoverflow.com) Code questions and aggregated answers.
 
 ### Text Editors 
@@ -116,7 +116,7 @@ Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks
 ### (Mac)
 
 
-1. Download "**Atom**" from **Atom.io**
+1. Download "**Atom**" from [Atom.io](http://Atom.io)
 1. Add HTML Preview 
 	- from the dropdown menu, select **Atom>Preferences>Install**
 	- In the search bar type "**HTML Preview**." 
@@ -126,7 +126,7 @@ Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks
 
 ### (Windows)
 
-1. Download "**Atom**" from **Atom.io**
+1. Download "**Atom**" from [Atom.io](http://Atom.io)
 1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
 1. In the search bar type "**HTML Preview**." 
 1. Select the package built by "**HARMSK**." Click "**Install**."
@@ -134,7 +134,7 @@ Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks
 
 ### (Chromebook)
 
-1. Download "**Code Pad Text Editor**" from Chrome Web Store. 
+1. Download "**Code Pad Text Editor**" from [Chrome Web Store](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB). 
 1. From the dropdown menu, select **Editor>IDE Preferences**
 1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
 
