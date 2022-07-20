@@ -8,7 +8,7 @@
 (9:30-9:50)
 
 * Introductions
-* The what and the why of *Coding Nature* (Our workshop with the Genius, Joy, and Love High School Students)
+* The what and the why of *Coding Nature* (Our workshop with the Genius, Joy, and Love Academy Students)
 * Intro to our webtext, basic coding and Open Fuego 
 
 (9:50-11:00)
@@ -33,7 +33,7 @@ Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 
 ## The what and the why of *Coding Nature*    
-(Our Genius, Joy, and Love High School Student Workshop)
+(Our Genius, Joy, and Love Academy Student Workshop)
 
 
 [My Nature Study](https://sjquigley.github.io/mutimodal-nature-studies/)
