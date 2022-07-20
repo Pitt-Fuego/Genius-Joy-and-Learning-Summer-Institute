@@ -76,7 +76,7 @@ Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.
 
 ##Interview/discussion Recording
 
-* Download Hi-Q MP3 Recorder from the Chrome App Store
+* Download [Hi-Q MP3 Recorder](https://play.google.com/store/apps/details?id=com.hiqrecorder.free&hl=en_US&gl=US) from the Chrome App Store
 * Set record to MP3
 * Partner-up and record your discussion about the importance of this Genius, Joy, and Love Seminar
 * When finished, click the share button.
